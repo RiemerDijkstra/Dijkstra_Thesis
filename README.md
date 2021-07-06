@@ -10,5 +10,9 @@
 
 4. Generator.ipynb: the code used for generating new articles based on Wikipedia articles as input (using GPT-2 model).  
 
+5. wiki_cleaning.ipynb: contains the code for extracting and cleaning Wikipedia dump files from the enwiki (English Wikipedia) database.
+
+6. wikiextractor: folder containing all files needed for partly extracting and cleaning the Wikipedia dump files. Only the extract.py file has been altered in order to suit this project better. More details can be found in wiki_cleaning.ipynb.
+
 
 
